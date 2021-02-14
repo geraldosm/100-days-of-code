@@ -1,0 +1,4 @@
+notebook
+jupyterlab
+qtconsole
+ipywidgets
